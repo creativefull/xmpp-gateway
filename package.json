@@ -1,0 +1,16 @@
+{
+  "name": "xmpp-gateway",
+  "version": "1.0.0",
+  "description": "XMPP Gateway Wrapper for Nodejs",
+  "main": "./lib/xmpp",
+  "keywords": [
+    "xmpp"
+  ],
+  "author": "Shodiqul Muzaki",
+  "license": "MIT",
+  "dependencies": {
+    "@xmpp/client": "^0.11.1",
+    "@xmpp/debug": "^0.11.0",
+    "qbox": "^0.1.7"
+  }
+}
